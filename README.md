@@ -1,2 +1,7 @@
-# demo-florencia-scalamandre-estudio-juridico
-Demo web para Florencia Scalamandre, estudio jurídico — diseñada por eterlab.
+# Florencia Scalamandre, estudio jurídico
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
